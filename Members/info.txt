@@ -1,0 +1,15 @@
+Jeff 
+was a lead software engineer,
+
+Raghu 
+focussed on UI design as well
+as data sources.  
+
+Alex Fortier
+Degree: BS in Computer Science ’15
+Contact Info: acfortier@alum.wpi.edu or acfortier@gmail.com
+
+Hoxha Armend
+ahoxha@alum.wpi.edu
+MS in Computer Science/ Graduated in May 2015
+Database Architect; I worked on designing the DB and writing functions needed by the system.
