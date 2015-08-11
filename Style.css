@@ -1,3 +1,13 @@
+html, body { 
+	height: 100%;
+}
+.push{
+padding-bottom: 70px; 
+}
+.container{
+ min-height:90%;
+}
+
 .circular {
 	width: 200px !important;
 	height: 200px !important;
@@ -36,23 +46,17 @@
   color: #ffffff !important;
   text-decoration: none;
 }
-.site-footer {
-	position: relative;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	z-index: 999;
-	padding: 10px 0px !important;
+.footer {
+	background-color: black;
+	margin-top: -70px; /* negative value of footer height */
+	height: 70px;
 }
-.site-footer {
-  clear: both;
-  font-size: 12px;
-}
-.site-footer p {
-  margin-bottom: 0;
-}
-.copy {
+
+.footer-copy {
+text-align: center;
   padding: 12px 0;
+  color: white;
+  font-size: 14px;
 }
 .mesh-credit {
   display: inline-block;
@@ -61,15 +65,11 @@
   color: #4b4b4b;
   background-size: 28px 17px;
 }
-.site-footer{
-	padding: 18px 0;
-	background-color: black;
+.nav.navbar.navbar-default.navbar-fixed-bottom{
+    background-color: black !important;
+    padding: 18px 0;
 }
 
-.site-footer p{
-	color: white;
-	font-size: 14px;
-}
     .imgTab {
                 width: 25%;    
             }
