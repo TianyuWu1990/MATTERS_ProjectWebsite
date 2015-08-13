@@ -32,6 +32,7 @@ padding-bottom: 70px;
 }
 .whiteText{
     color: #ffffff !important;
+	font-size: 18px !important;
 }
 
 
@@ -46,7 +47,7 @@ padding-bottom: 70px;
 text-align: center;
   padding: 12px 0;
   color: white;
-  font-size: 14px;
+  font-size: 14px !important;
 }
 
 /***** home page *****/
@@ -102,7 +103,8 @@ height: 50%;
 }
 
 /*** font for index ***/ 
-p {
-    font-size: 18px !important;
+.contentMainPage{
+    font-size: 17px !important;
+	font-weight: bold !important;
 }
 
