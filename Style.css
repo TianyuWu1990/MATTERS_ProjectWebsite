@@ -102,6 +102,11 @@ width: 50%;
 height: 50%;
 }
 
+/**** releases ****/
+.#prototype{
+	width: 800px;
+	}
+
 /*** font for index ***/ 
 .contentMainPage{
     font-size: 17px !important;
